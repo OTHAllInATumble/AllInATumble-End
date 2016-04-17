@@ -150,8 +150,7 @@ public class MainActivity extends AppCompatActivity {
             switch (msg.what){
                 case 1:
                     get_time();
-                    break;
-            }
+                    break; }
         }
     };
 
